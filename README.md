@@ -4,32 +4,6 @@ A comprehensive documentation suite for establishing and managing a
 charitable fundraising organisation, including all necessary documentation
 for bank account setup and legal compliance.
 
-## Repository Structure
-
-```text
-chartity/
-├── README.md                           # This file - project overview and status
-├── constitution.md                     # Organisational constitution and governance
-├── fundraising-policies.md             # Fundraising ethics, procedures and compliance
-├── financial-procedures.md             # Financial management and accounting procedures
-├── bank-application/                   # Bank account application documents
-│   ├── application-checklist.md        # Required documents and process
-│   ├── business-plan.md                # Organisation business plan template
-│   └── financial-projections.md        # Financial planning and projections
-├── compliance/                         # Legal and regulatory compliance
-│   ├── regulatory-requirements.md      # Legal obligations and compliance framework
-│   ├── data-protection.md              # GDPR and data handling procedures
-│   └── risk-assessment.md              # Risk management framework
-├── governance/                         # Organisational governance documents
-│   ├── roles-responsibilities.md       # Detailed role descriptions
-│   ├── meeting-procedures.md           # Meeting protocols and decision-making
-│   └── conflict-resolution.md          # Dispute resolution procedures
-└── reporting/                          # Transparency and reporting framework
-    ├── financial-reporting.md          # Regular financial reporting procedures
-    ├── donor-communication.md          # Donor relations and communication
-    └── annual-review.md                # Annual reporting and evaluation
-```
-
 ## Document Status
 
 ### ✅ Completed Documents

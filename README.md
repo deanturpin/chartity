@@ -1,10 +1,12 @@
 # Fundraising Group Documentation Repository
 
-A comprehensive documentation suite for establishing and managing a charitable fundraising organisation, including all necessary documentation for bank account setup and legal compliance.
+A comprehensive documentation suite for establishing and managing a
+charitable fundraising organisation, including all necessary documentation
+for bank account setup and legal compliance.
 
 ## Repository Structure
 
-```
+```text
 chartity/
 ├── README.md                           # This file - project overview and status
 ├── constitution.md                     # Organisational constitution and governance
@@ -31,10 +33,12 @@ chartity/
 ## Document Status
 
 ### ✅ Completed Documents
+
 - [x] **Constitution** - Organisational structure and governance framework
 - [x] **Fundraising Policies** - Ethics, procedures and compliance guidelines
 
 ### 🚧 In Progress Documents
+
 - [ ] **Financial Procedures** - Accounting and financial management systems
 - [ ] **Bank Application Documents** - Complete application package
 - [ ] **Compliance Framework** - Legal and regulatory requirements
@@ -44,12 +48,14 @@ chartity/
 ## Getting Started
 
 ### For Bank Account Application
+
 1. Complete and customise the constitution with your organisation details
 2. Review and adapt fundraising policies to your specific activities
 3. Prepare financial procedures and projections
 4. Gather all required documentation from the bank application checklist
 
 ### For Operational Setup
+
 1. Assign roles according to governance structure
 2. Implement financial procedures and controls
 3. Set up compliance monitoring systems
@@ -66,6 +72,7 @@ chartity/
 ## Todo List
 
 ### Phase 1: Core Documentation
+
 - [x] Create organisational constitution
 - [x] Develop fundraising policies and procedures
 - [ ] Complete financial management procedures
@@ -73,18 +80,21 @@ chartity/
 - [ ] Establish compliance and regulatory framework
 
 ### Phase 2: Governance and Operations
+
 - [ ] Detail governance structure and roles
 - [ ] Create operational procedures and protocols
 - [ ] Develop risk management framework
 - [ ] Set up meeting and decision-making procedures
 
 ### Phase 3: Transparency and Reporting
+
 - [ ] Design financial reporting systems
 - [ ] Create donor communication frameworks
 - [ ] Establish annual review and evaluation processes
 - [ ] Implement transparency and accountability measures
 
 ### Phase 4: Implementation Readiness
+
 - [ ] Create implementation checklists
 - [ ] Develop training materials for key roles
 - [ ] Prepare regulatory filing templates
@@ -100,6 +110,7 @@ chartity/
 ## Support and Maintenance
 
 This documentation repository should be:
+
 - Reviewed annually for accuracy and compliance
 - Updated when regulations or organisational needs change
 - Used as training material for new team members
